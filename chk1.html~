@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+body {background-color:blue;}
+h1 {color:red;}
+p {color:green;}
+</style>
+<body>
+<h1>This is my first heading</h1>
+<h2>This is second heading</h2>
+<p>This is first paragraph</p>
+</body>
+</head>
+</html>
